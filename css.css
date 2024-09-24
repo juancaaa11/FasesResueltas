@@ -36,6 +36,7 @@ background-color: rgb(182, 192, 227);
 
 .contenido {
 
+  background-color: rgb(255, 255, 255);
   padding: 20px;
   border-radius: 8px;
   box-shadow: 0 2px 10px rgb(22, 1, 255); /* Sombra */
